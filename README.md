@@ -1,6 +1,6 @@
 # Python 3D Modeller
 
-A small dependency-free 3D modeller built with Python and Tkinter. It is inspired by the
+A small dependency-free 3D modeller built with Python and Tkinter. Inspired by the
 Architecture of Open Source Applications "500 Lines or Less" 3D modeller tutorial, but
 packaged as a personal-project-friendly app with scene files and OBJ export.
 
